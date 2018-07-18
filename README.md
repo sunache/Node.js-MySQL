@@ -1,16 +1,17 @@
 # Node.js-MySQL
-<<<<<<< HEAD
-If the screenshots of working app does not display, please see them in the file :) 
+ - This app was built using Node.JS & MySQL. 
+ 
+Please see the screenshot for the demo...
 ![screenshot 1](../master/image1.png)
+
 ![screenshot 1](../master/image2.png)
+
 ![screenshot 1](../master/image3.png)
 =======
 
+# What is it about?
+  - This app is a node version of Amazon where customers can see the products and purchase through the node. 
 
 
 
-![Screenshot1](image1.png)
-![screenshot 1](/master/image1.png)
-![screenshot 1](/master/image2.png)
-![screenshot 1](/master/image3.png)
->>>>>>> f6304da6dc1b4e8d4906a9d3fd0859781c6cd6d7
+
